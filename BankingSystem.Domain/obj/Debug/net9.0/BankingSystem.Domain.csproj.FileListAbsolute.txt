@@ -1,0 +1,16 @@
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\bin\Debug\net9.0\BankingSystem.Domain.deps.json
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\bin\Debug\net9.0\BankingSystem.Domain.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\bin\Debug\net9.0\BankingSystem.Domain.pdb
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\bin\Debug\net9.0\BankingSystem.Core.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\bin\Debug\net9.0\BankingSystem.Core.pdb
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.csproj.AssemblyReference.cache
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.AssemblyInfoInputs.cache
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.AssemblyInfo.cs
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.sourcelink.json
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingS.F477D8A9.Up2Date
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\refint\BankingSystem.Domain.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\BankingSystem.Domain.pdb
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Domain\obj\Debug\net9.0\ref\BankingSystem.Domain.dll

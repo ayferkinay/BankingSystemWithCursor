@@ -1,0 +1,13 @@
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\bin\Debug\net9.0\BankingSystem.Core.deps.json
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\bin\Debug\net9.0\BankingSystem.Core.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\bin\Debug\net9.0\BankingSystem.Core.pdb
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.AssemblyInfoInputs.cache
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.AssemblyInfo.cs
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.csproj.CoreCompileInputs.cache
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.sourcelink.json
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\refint\BankingSystem.Core.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.pdb
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\ref\BankingSystem.Core.dll
+C:\Users\ayfer\OneDrive\Masaüstü\Cursor Projects\BankingSystem\BankingSystem\BankingSystem.Core\obj\Debug\net9.0\BankingSystem.Core.csproj.AssemblyReference.cache
